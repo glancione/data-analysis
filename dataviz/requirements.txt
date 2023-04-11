@@ -1,0 +1,11 @@
+# This file includes dependencies required to run the code
+
+plotly
+numpy
+pandas
+pyarrow
+os
+dash
+math
+dash_cytoscape
+networkx
